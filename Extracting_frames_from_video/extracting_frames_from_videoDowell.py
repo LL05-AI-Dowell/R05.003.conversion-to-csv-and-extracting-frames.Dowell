@@ -51,3 +51,5 @@ total_frame_save = seconds/s
 
 t = round(total_frame_save)
 print("\nTotal frames saved :{0} \n".format(t))
+
+print("The frames are saved in capture frame directory")
