@@ -20,4 +20,18 @@ and [yolov4_custom.cfg](https://github.com/LL05-AI-Dowell/R05.003.conversion-to-
 python3 main.py
 
 
+###  The results are here
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LL05-AI-Dowell/R05.003.conversion-to-csv-and-extracting-frames.Dowell/Branch-1/yolov4model/training/chart.png" align="center" alt="Result Chart" width="480" height="260">
+</p>
+<h1 align="center"><b><i>Performance of the model</i></b></h1>
+
+### Testing of the model
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LL05-AI-Dowell/R05.003.conversion-to-csv-and-extracting-frames.Dowell/Branch-1/yolov4model/training/Screenshot%20from%202021-03-20%2022-50-12.png" align="center" alt="Test" width="480" height="260">
+</p>
+<h1 align="center"><b><i>Prediction of our model</i></b></h1>
+
+
 
