@@ -1,5 +1,5 @@
 ## yolov4 custom training for camparing the faces of the employees 
-the weights are avliable at [weights for yolov4](https://drive.google.com/file/d/1-80De2OXeJby9ne6d2gCP_lfB3FrU4UM/view?usp=sharing) these are avaliable only of dowell members.
+the trained weights are avliable at [weights for yolov4](https://drive.google.com/file/d/1-80De2OXeJby9ne6d2gCP_lfB3FrU4UM/view?usp=sharing) these are avaliable only of dowell members.
 
 #### training
 the traing part is avaliable [here](https://github.com/LL05-AI-Dowell/R05.003.conversion-to-csv-and-extracting-frames.Dowell/blob/Branch-1/yolov4model/training/training_the_model.ipynb)
