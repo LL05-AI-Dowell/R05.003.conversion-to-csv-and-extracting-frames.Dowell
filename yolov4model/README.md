@@ -1,3 +1,15 @@
+# necessary file
+- weights 
+- cfg file 
+- classes
+
+# requirments
+- cv2
+- numpy 
+- time
+
+## to check
+ run python3 main.py
 ## yolov4 custom training for camparing the faces of the employees 
 the trained weights are avliable at [weights for yolov4](https://drive.google.com/file/d/1-80De2OXeJby9ne6d2gCP_lfB3FrU4UM/view?usp=sharing) these are avaliable only of dowell members.
 
